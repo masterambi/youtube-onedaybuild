@@ -17,6 +17,7 @@
 		2C7E59592494A2070025B43C /* Video.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7E59582494A2070025B43C /* Video.swift */; };
 		2C7E595B2494A7570025B43C /* Model.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7E595A2494A7570025B43C /* Model.swift */; };
 		2C7E595D2494EC680025B43C /* Response.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7E595C2494EC680025B43C /* Response.swift */; };
+		2C7E595F2494F69E0025B43C /* ConstantsTemplate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2C7E595E2494F69E0025B43C /* ConstantsTemplate.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		2C7E59582494A2070025B43C /* Video.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Video.swift; sourceTree = "<group>"; };
 		2C7E595A2494A7570025B43C /* Model.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Model.swift; sourceTree = "<group>"; };
 		2C7E595C2494EC680025B43C /* Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Response.swift; sourceTree = "<group>"; };
+		2C7E595E2494F69E0025B43C /* ConstantsTemplate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ConstantsTemplate.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,10 +73,11 @@
 				2C7E594B2493A6140025B43C /* Assets.xcassets */,
 				2C7E594D2493A6140025B43C /* LaunchScreen.storyboard */,
 				2C7E59502493A6140025B43C /* Info.plist */,
-				2C7E59562494A0B80025B43C /* Constants.swift */,
 				2C7E59582494A2070025B43C /* Video.swift */,
 				2C7E595A2494A7570025B43C /* Model.swift */,
 				2C7E595C2494EC680025B43C /* Response.swift */,
+				2C7E59562494A0B80025B43C /* Constants.swift */,
+				2C7E595E2494F69E0025B43C /* ConstantsTemplate.swift */,
 			);
 			path = "youtube-onedaybuild";
 			sourceTree = "<group>";
@@ -153,6 +156,7 @@
 				2C7E59472493A6120025B43C /* ViewController.swift in Sources */,
 				2C7E59432493A6120025B43C /* AppDelegate.swift in Sources */,
 				2C7E59452493A6120025B43C /* SceneDelegate.swift in Sources */,
+				2C7E595F2494F69E0025B43C /* ConstantsTemplate.swift in Sources */,
 				2C7E595B2494A7570025B43C /* Model.swift in Sources */,
 				2C7E59572494A0B80025B43C /* Constants.swift in Sources */,
 				2C7E59592494A2070025B43C /* Video.swift in Sources */,
